@@ -1,0 +1,120 @@
+.container {
+	max-width: 1170px;
+	width:100%;
+	margin: 0 auto;
+}
+.flex{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.logo img{
+	height: 50px;
+}
+.navbar-ul{
+	display: flex;
+	font-size: 24px;
+}
+.navbar-li{
+	margin-left: 30px;
+}
+.main-container{
+	background-color: #bdccd4;
+	padding: 30px 0;
+}
+.flex-column{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	height: 600px;
+	align-content: space-around;
+}
+.bg{
+background-image: url('../img/bg.svg');
+	width:270px;
+	height:210px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:  center ;
+	margin-bottom: 20px;
+	position: relative;
+}
+.text{
+	position: absolute;
+	bottom:-60px;
+	width:270px;
+	height:60px;
+	background: #e6e6e6;
+}
+.bg1{
+background-image: url('../img/kom.svg');
+	width:270px;
+	height:210px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:  center ;
+	margin-bottom: 20px;
+	margin-left: 30px;
+}
+.bg2{
+background-image: url('../img/surati3.gif');
+	width:270px;
+	height:210px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:  center ;
+	margin-bottom: 20px;
+	margin-left: 30px;
+}
+.bg3{
+background-image: url('../img/surati4.gif');
+	width:270px;
+	height:210px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:  center ;
+	margin-bottom: 20px;
+	margin-left: 30px;
+}
+.bg4{
+background-image: url('../img/bg.svg');
+	width:270px;
+	height:210px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:  center ;
+	margin-bottom: 20px;
+	
+}
+.bg5{
+background-image: url('../img/kom.svg');
+	width:270px;
+	height:210px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:  center ;
+	margin-bottom: 20px;
+	margin-left: 30px;
+}
+.bg6{
+background-image: url('../img/surati3.gif');
+	width:270px;
+	height:210px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:  center ;
+	margin-bottom: 20px;
+	margin-left: 30px;
+}
+.bg7{
+background-image: url('../img/surati4.gif');
+	width:270px;
+	height:210px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:  center ;
+	margin-bottom: 20px;
+	margin-left: 30px;
+}
