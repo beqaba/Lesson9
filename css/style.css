@@ -2,6 +2,7 @@
 	max-width: 1170px;
 	width:100%;
 	margin: 0 auto;
+
 }
 .flex{
 	display: flex;
@@ -29,7 +30,8 @@
 	justify-content: center;
 	align-items: center;
 	height: 600px;
-	align-content: space-around;
+	margin-bottom: 50px;
+	
 }
 .bg{
 background-image: url('../img/bg.svg');
@@ -47,6 +49,8 @@ background-image: url('../img/bg.svg');
 	width:270px;
 	height:60px;
 	background: #e6e6e6;
+	text-align: center;
+	padding: 20px;
 }
 .bg1{
 background-image: url('../img/kom.svg');
@@ -57,6 +61,7 @@ background-image: url('../img/kom.svg');
 	background-position:  center ;
 	margin-bottom: 20px;
 	margin-left: 30px;
+	position: relative;
 }
 .bg2{
 background-image: url('../img/surati3.gif');
@@ -67,6 +72,7 @@ background-image: url('../img/surati3.gif');
 	background-position:  center ;
 	margin-bottom: 20px;
 	margin-left: 30px;
+	position: relative;
 }
 .bg3{
 background-image: url('../img/surati4.gif');
@@ -77,6 +83,7 @@ background-image: url('../img/surati4.gif');
 	background-position:  center ;
 	margin-bottom: 20px;
 	margin-left: 30px;
+	position: relative;
 }
 .bg4{
 background-image: url('../img/bg.svg');
@@ -86,6 +93,7 @@ background-image: url('../img/bg.svg');
 	background-repeat: no-repeat;
 	background-position:  center ;
 	margin-bottom: 20px;
+	position: relative;
 	
 }
 .bg5{
@@ -97,6 +105,7 @@ background-image: url('../img/kom.svg');
 	background-position:  center ;
 	margin-bottom: 20px;
 	margin-left: 30px;
+	position: relative;
 }
 .bg6{
 background-image: url('../img/surati3.gif');
@@ -107,6 +116,7 @@ background-image: url('../img/surati3.gif');
 	background-position:  center ;
 	margin-bottom: 20px;
 	margin-left: 30px;
+	position: relative;
 }
 .bg7{
 background-image: url('../img/surati4.gif');
@@ -117,4 +127,57 @@ background-image: url('../img/surati4.gif');
 	background-position:  center ;
 	margin-bottom: 20px;
 	margin-left: 30px;
+	position: relative;
+}
+.more{
+	background-color: #83939b;
+	width:135px;
+	height:60px;
+	padding:20px;
+	margin-left: 521px;
+	font-size: 18px;
+	white-space: nowrap;
+}
+.cont{
+	position: relative;
+	background-color: #363e97;
+	padding: 30px 0;
+	display: flex;
+	justify-content: center;
+}
+.sec2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #f2f2f2;
+	width:570px;
+	height:320px;
+	font-size: 17px;
+	margin:15px;
+	margin-bottom: 20px;
+}
+.boxx{
+	display: flex;
+	pad
+}
+.box{
+	background-color: white;
+	width:22px;
+	height:22px;
+	margin-top: 370px;
+	margin-left: -658px;
+}
+.box1{
+	margin-left: 10px;
+	border: 2px solid white;
+	width:22px;
+	height:22px;
+	margin-top: 370px;
+}
+.cotext{
+	position:absolute;
+	background-color: pink;
+	margin-left: -460px;
+	font-size: 24px;
+	margin-top:-9px;
 }
